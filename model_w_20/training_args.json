@@ -1,0 +1,11 @@
+{
+    "datasetpath": "dataset/dataset.txt",
+    "crop_len": 20,
+    "alphabet_len": 8752,
+    "hidden_units": 128,
+    "layers_num": 2,
+    "dropout_prob": 0.3,
+    "batchsize": 100,
+    "num_epochs": 5000,
+    "out_dir": "model_w_20"
+}
